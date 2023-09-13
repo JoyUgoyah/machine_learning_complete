@@ -1,8 +1,8 @@
 # MLOps - A Comprehensive Guide
 
-When it comes to machine learning, what most people care about is making the most of models and that usually means putting models into production. MLOPs standing for Machine Learning Operations involves set of processes that make it possible to design, train, evaluate, and to deploy models.
+When it comes to machine learning, what most people care about is making the most of models and that usually means putting models into production. MLOPs standing for Machine Learning Operations involves a set of processes that make it possible to design, train, evaluate, and deploy models.
 
-This page serves as a comprehensive guide to MLOps. It gives a brief introduction to MLOps and why it is an important area of study, relevant learning resources (such as courses, books, papers), tools, and various communities in MLOps. Here is a rough outline:
+This page serves as a comprehensive guide to MLOps. It gives a brief introduction to MLOps and why it is an important area of study, relevant learning resources (such as courses, books, and papers), tools, and various communities in MLOps. Here is a rough outline:
 
 - Introduction to MLOps
 - MLOps learning resources
@@ -10,7 +10,7 @@ This page serves as a comprehensive guide to MLOps. It gives a brief introductio
     - Books
     - Papers
     - Blogs, people and communities
-- MLOPs tools landscape
+- MLOps tools landscape
 - Conclusion
 
 Machine learning evolves faster than other other fields. Thus, new resources will evolve, new tools will come while existing tools will become irrelevant. This page will be updated continously(my hope) to ensure you get a practical blueprint for learning MLOps.
@@ -21,7 +21,7 @@ What is MLOps and why is everybody saying MLOps these days? As alluded to in the
 
 MLOps workflow contains at least 6 stages which are discussed in brief below:
 
-* **Data collection and cleaning**: This is the first and foremost task in any typical machine learning project. Data collection refers to collecting data from various sources. Data can be sourced from database, scraping internet, APIs, etc...Once the data is collected, the next step is usually cleaning it. This can involve labeling and other data wrangling activities.
+* **Data collection and cleaning**: This is the first and foremost task in any typical machine learning project. Data collection refers to collecting data from various sources. Data can be sourced from databases, scraping the internet, APIs, etc...Once the data is collected, the next step is usually cleaning it. This can involve labeling and other data-wrangling activities.
 
 * **Feature engineering:** Once data is collected and cleaned, you are not done with data yet. You may want to create new features, transform existing features, or extract new features from existing features. That's what feature engineering is all about. It is a process of using domain knowledge to create new features or to transform existing features. Feature engineering is typically done after data cleaning and before building model.
 
